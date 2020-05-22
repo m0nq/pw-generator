@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'pw-generator';
+
+  onButtonClick() {
+    console.log('Button was clicked');
+  }
 }

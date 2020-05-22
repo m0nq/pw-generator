@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "pw-generator"
+    }
+  },
+  "defaultProject": "pw-generator",
+  "cli": {
+    "analytics": false
+  }
 }
